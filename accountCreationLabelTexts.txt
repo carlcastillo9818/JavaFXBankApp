@@ -1,0 +1,5 @@
+T&H BANK ACCOUNT CREATION
+Enter full name :
+Enter account type :
+Enter initial deposit amount : $
+
