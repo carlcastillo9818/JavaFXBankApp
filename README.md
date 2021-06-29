@@ -5,3 +5,5 @@ This project is a small GUI app to be run in which it simulates a fictional bank
 IMPORTANT NOTE: I only tested this project on WINDOWS computers so if you have a mac or linux machine and the project doesnt work then the OS is the culprit since the project files VM args have to be changed depending on the OS.  
 
 Another important note : This entire project stopped working at one point due to some file and folder name changes, actually it turns out it was because of a missing image file which caused this fancy exception to be thrown "Exception in Application start method java.lang.reflect.InvocationTargetException" along with 20 more lines of exceptions and errors.  I recovered the missing image file from an older project folder and now the project should work without issues.  
+
+In case anyone is wondering why I picked T&H Bank as the name of the bank, the T stands for Tucker, a friends dog that I knew for a long time before he sadly passed away last August.  The H stands for Hank, a dog of another friend who is still currently living to this day. 
